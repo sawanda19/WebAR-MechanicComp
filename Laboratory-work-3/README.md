@@ -38,7 +38,7 @@
 ![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/7229ea2f-272d-4751-9ebe-72b4a180c76d)
 Рис.11 - Фрагмент екрану з рішення завдання 2.2.3 Переглянути вміст файлу config, використовуючи редактор nano.
 
-![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/4a63ff05-1b1b-4d05-822d-826926661784)
+![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/aa9098a8-ffbf-4da6-9d97-727e893e7741)
 Рис.12 - Фрагмент екрану з рішення завдання 2.2.4 Отримати перелік файлів поточного каталогу
 
 ![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/2ea1a828-2eeb-4926-8497-a72a7d4eac65)
