@@ -19,7 +19,7 @@
 Рис.6 - Фрагмент екрану з рішення завдання 2.1.1.5 Використовуючи текстові редактори, які пропонуються оболонкою Git Bash,
 наприклад, текстовий редактор nano, додати до файлу README.md рядок тексту із темою лабораторної роботи
 
-![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/60dfa4e0-d71f-4f2a-b343-0ad46cc13a17)
+![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/7f10923d-6bf0-4f15-9df6-d4a461c29c1a)
 ![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/679ee287-3b16-4898-b9a1-fd306841fb33)
 Рис.7-8 - Фрагмент екрану з рішення завдання 2.1.1.6 Виконати операції з оновлення GitHub-репозиторію змінами Git-репозиторія
 через послідовність Git-команд add, commit із коментарем «Changed by Local Git» та push
