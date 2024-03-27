@@ -5,7 +5,7 @@
 Рис.1-2 - Фрагмент екрану з рішення завдання 2.1.1.1 Виконати безпечне клонування GitHub-репозиторію, який був наданий вам
 викладачем, створивши на локальному комп’ютері Git-репозиторій
 
-![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/ac3ab4be-1baf-43b5-b187-e1325acfd943)
+![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/955efcd0-5927-453c-882f-fc6d09dc1ff7)
 Рис.3 - Фрагмент екрану з рішення завдання 2.1.1.2 Створити нову Git-гілку з назвою «Laboratory-work-3»
 
 ![image](https://github.com/sawanda19/WebAR-MechanicComp/assets/162291383/6b622b50-9f04-4e07-801f-f8414115cf6b)
